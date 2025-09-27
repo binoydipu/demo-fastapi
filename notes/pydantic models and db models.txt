@@ -1,0 +1,10 @@
+
+# Schema Models:
+
+- Pydantic models define the structure of a request & response
+- Provides validation of data, their types
+
+# SQL Alchemy Models:
+
+- Responsible for defining the columns of our table within databases
+- Used to query, create, delete, update entries within the database
